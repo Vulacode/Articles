@@ -5,4 +5,5 @@ This repository contains various articles about Operation Vula (1988 - 1991)
 3. How the ANC sent encrypted messages in the fight against apartheid. Jan Vermeulen, MyBroadBand, 12 July 2015. https://mybroadband.co.za/news/security/131822-how-the-anc-sent-encrypted-messages-in-the-fight-against-apartheid.html (How the ANC sent encrypted messages in the fight against apartheid.pdf)
 4. The South African who helped end apartheid with encryption and inspired a Hollywood movie. Jan Vermeulen, MyBroadBand, 10 June 2024. https://mybroadband.co.za/news/security/540163-the-south-african-who-helped-end-apartheid-with-encryption-and-inspired-a-hollywood-movie.html (The South African who helped end apartheid with encryption and inspired a Hollywood movie.pdf)
 5. Vula Connection on YouTube.txt provides details about how to view the documentary "The Vula Connection" (2014). This documentary covers the communications aspect of Operation Vula.
+6. Technically Subversive: Encrypted Communication in the South African National Liberation Struggle (2020) is a dissertation on Operation Vula by Sophie Toupinm, McGill University
 
